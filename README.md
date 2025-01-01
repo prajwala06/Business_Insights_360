@@ -1,6 +1,3 @@
-Here is the `README.md` file for your GitHub repository, including all your project details and links:
-
-```markdown
 # Business Insights 360 - AtliQ Hardware
 
 ## Project Overview
@@ -33,10 +30,6 @@ I worked on this project by following the [Codebasics Power BI Course](https://c
 - Data validation techniques
 - Power BI services (publishing reports, setting up auto-refresh, Power BI App creation)
 - Collaboration, workspace, and access permissions in Power BI services
-
-## GitHub Details
-- **Uploading Large Files**: GitHub Large File Storage (LFS)
-- **Tracking Specific File Types**: For LFS file extensions
 
 ## Business-Related Terms
 - Gross Price
@@ -90,26 +83,34 @@ The data is stored in a MySQL database, and the datasets were imported into Powe
 
 ## Data Model
 - Data modeling is the backbone of the report.
+- Here is the data model used for this project:
+![Data Model](images/Data_model.png)
 - Followed **Snowflake Schema** modeling.
 - Ensured best practices for data modeling to enhance performance and clarity.
 
 ## Dashboard Designing
 
 ### Visual Views:
-- **Home View**: Overview with navigation to different sections.
-- **Info View**: General information about the data.
-- **Finance View**: Insights into financial data.
-- **Sales View**: Sales performance analysis.
-- **Marketing View**: Marketing-related insights.
-- **Supply Chain View**: Visualizes supply chain data.
-- **Executive View**: High-level overview for executives.
-- **Product View**: Data related to product categories.
+- **Home View**: Overview with navigation to different sections.  
+![Home View](images/Home.png)
+
+- **Finance View**: Insights into financial data.  
+![Finance View](images/Finance.png)
+
+- **Sales View**: Sales performance analysis.  
+![Sales View](images/Sales.png)
+
+- **Marketing View**: Marketing-related insights.  
+![Marketing View](images/Marketing.png)
+
+- **Supply Chain View**: Visualizes supply chain data.  
+![Supply Chain View](images/Supply.png)
+
+- **Executive View**: High-level overview for executives.  
+![Executive View](images/Excecutive.png)
+
 
 **Full Report**: [Business Insights 360 - AtliQ Hardware](https://www.novypro.com/create_project/business-insight-360-atliq-hardware)
 
 ## Project Outcome
 The report provides stakeholders with the ability to make informed decisions based on data-driven insights. It helps answer critical business questions and enables continuous improvement by identifying areas for optimization and growth.
-
----
-
-Feel free to add this `README.md` to your GitHub repository, and let me know if you need any further adjustments or additional details!
