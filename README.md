@@ -5,7 +5,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 I worked on this project by following the [Codebasics Power BI Course](https://codebasics.io/bootcamps/dashboard/data-analytics-bootcamp-with-practical-job-assistance). The course gave me the technical foundation to implement this project.
 
-**Live Report Link:** [Business Insights 360 - AtliQ Hardware](https://www.novypro.com/create_project/business-insight-360-atliq-hardware)
+**Live Report Link:** [(https://app.powerbi.com/links/LZnh2ZVbhy?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)]
 
 ## Tech Stacks
 - **SQL**
